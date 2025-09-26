@@ -14,6 +14,8 @@ module.exports = {
         'ashoka-blue': '#000080', // The color of the Ashoka Chakra
         'light-gray': '#F2F2F2', // A light background color
         'dark-gray': '#333333',  // Dark text or accents
+        'beige': '#F5F5DC',      // Modern beige
+        'burgundy': '#800020',   // Modern burgundy
       },
     },
   },
